@@ -1,7 +1,7 @@
 ## CUPS ( control and user plane sepration ):-
 
 # *whats the cups ?:-*
-**Control and User plane sepration (cups) isnt a new concept int wirless world, its part of 3gpp relese 14 .**
+**Control and User plane sepration (cups) isnt a new concept int wirless world, its part of 3gpp relese 14 .** 
 
 
 **cups is essential to 5g network becauseits allow operators to seprate the evolved packet core (epc) into a control plane that can sit in a centralized location and for the user plane to be placed closer to the application its supporitng .** 
